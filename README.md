@@ -17,5 +17,5 @@ Install the requirements:
 pip install -r requirements.txt
 ```
 
-## Usage
+### Usage
 [This notebook](https://github.com/Minidimi/QIRO_Routing/blob/main/qiro_routing/test_runs.ipynb) allows for testing the default instances. The quantum algorithm can be chosen by entering it as a parameter for QIRO while the update steps are implemented in different functions. When using QIRO in other contexts, [this file](https://github.com/Minidimi/QIRO_Routing/blob/main/qiro_routing/src/QIRO_Optimizer.py) offers the necessary implementations. 
